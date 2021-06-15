@@ -41,6 +41,9 @@ export default function App() {
             <Text style={{ color: "#eeb585", marginTop: 36 }}>
               Upload a picture
             </Text>
+            <Text style={{ color: "#eeb585", marginTop: 36 }}>
+              Upload a picture
+            </Text>
           </TouchableOpacity>
         </View>
       ) : (
